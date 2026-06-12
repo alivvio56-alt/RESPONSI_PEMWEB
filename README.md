@@ -1,4 +1,4 @@
-# Naruto Mania Pro — Penjelasan Singkat Website
+# Naruto Wiki — Penjelasan Singkat Website
 
 **Builder:** Kelompok C4  
 
